@@ -1,5 +1,5 @@
 # PC-points-data-scrap
-HTML scrap of PC points transactions from PC optimum website
+HTML scrap of PC points transactions from PC Optimum website
 
 Run script to automate required line to clipboard. Open page source of PC Optimum transaction page, and paste clipboarded line. This copies the HTML code.
 Continue with script. 
